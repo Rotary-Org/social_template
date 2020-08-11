@@ -37,6 +37,10 @@
       ]
     },
     "extra": {
+          "civicrm-asset": {
+                "path": "html/libraries/civicrm",
+                "url": "/libraries/civicrm"
+        },
         "installer-types": [
             "bower-asset",
             "npm-asset"
