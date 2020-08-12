@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ef46e0a3e4cc99f7a47fb1bd76b1044",
+    "content-hash": "a42eb1b3b2dcdd25b47d08ad10ca03d3",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -666,12 +666,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/civicrm/civicrm-core.git",
-                "reference": "24a5a14f1a16606ead3b44bc88c5d1d2ff2e3434"
+                "reference": "520d760ea9dbf3b78ac7b6f76af92d1ec55193c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/civicrm/civicrm-core/zipball/24a5a14f1a16606ead3b44bc88c5d1d2ff2e3434",
-                "reference": "24a5a14f1a16606ead3b44bc88c5d1d2ff2e3434",
+                "url": "https://api.github.com/repos/civicrm/civicrm-core/zipball/520d760ea9dbf3b78ac7b6f76af92d1ec55193c3",
+                "reference": "520d760ea9dbf3b78ac7b6f76af92d1ec55193c3",
                 "shasum": ""
             },
             "require": {
@@ -1073,7 +1073,7 @@
                 }
             ],
             "description": "Open source constituent relationship management for non-profits, NGOs and advocacy organizations.",
-            "time": "2020-08-10T12:42:37+00:00"
+            "time": "2020-08-11T23:23:36+00:00"
         },
         {
             "name": "civicrm/civicrm-cxn-rpc",
