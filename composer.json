@@ -14,7 +14,7 @@
         "phpseclib/phpseclib": "2.0.28 as 1.0.19",
         "drupal-composer/drupal-scaffold": "^2.6.1",
         "cweagans/composer-patches": "^1.0",
-        "goalgorilla/open_social": "~8.0",
+        "rotary_org/open_social": "~8.0",
         "php": "^7.2",
         "monolog/monolog": "^1.17"
     },
