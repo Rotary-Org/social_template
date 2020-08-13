@@ -14,9 +14,18 @@
         "phpseclib/phpseclib": "2.0.28 as 1.0.19",
         "drupal-composer/drupal-scaffold": "^2.6.1",
         "cweagans/composer-patches": "^1.0",
-        "goalgorilla/open_social": "~8.0",
+        "rotary_org/open_social": "~8.0",
         "php": "^7.2",
-        "monolog/monolog": "^1.17"
+        "monolog/monolog": "^1.17",
+        "drupal/webform": "^5.19",
+        "drupal/default_content": "^2.0@alpha",
+        "drupal/social_geolocation": "^1.2",
+        "drupal/page_manager": "^4.0@beta",
+        "drupal/views_bootstrap": "^4",
+        "drupal/radix_layouts": "^4.1",
+        "drupal/layout_library": "^1.0@beta",
+        "drupal/bootstrap_layouts": "^5.2",
+        "rotary/rotary_content": "dev-master"
     },
     "repositories": [
         {
@@ -37,7 +46,7 @@
       ]
     },
     "extra": {
-        "civicrm-asset": {
+          "civicrm-asset": {
                 "path": "html/libraries/civicrm",
                 "url": "/libraries/civicrm"
         },
