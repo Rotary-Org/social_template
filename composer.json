@@ -62,7 +62,7 @@
                 "type:drupal-module"
             ],
             "html/profiles/contrib/social": [
-                "goalgorilla/open_social"
+                "rotary_org/open_social"
             ],
             "html/profiles/contrib/{$name}": [
                 "type:drupal-profile"
