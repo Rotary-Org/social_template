@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "composer/installers": "^1.0",
-        "civicrm/civicrm-core": "^5.29",
-        "civicrm/civicrm-drupal-8": "^5.29",
-        "civicrm/civicrm-packages": "^5.29",
+        "civicrm/civicrm-core": "^5.28",
+        "civicrm/civicrm-drupal-8": "^5.28",
+        "civicrm/civicrm-packages": "^5.28",
         "civicrm/civicrm-asset-plugin": "^1.0",
         "phpseclib/phpseclib": "2.0.28 as 1.0.19",
         "drupal-composer/drupal-scaffold": "^2.6.1",
@@ -25,7 +25,8 @@
         "drupal/radix_layouts": "^4.1",
         "drupal/layout_library": "^1.0@beta",
         "drupal/bootstrap_layouts": "^5.2",
-        "rotary/rotary_content": "dev-master"
+        "rotary/rotary_content": "dev-master",
+        "drupal/google_analytics": "^3.1"
     },
     "repositories": [
         {
